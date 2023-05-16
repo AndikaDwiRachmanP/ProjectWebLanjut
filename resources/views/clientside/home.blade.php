@@ -11,7 +11,7 @@
 
 </head>
 <header>
-    <div></div>
+    
     <div>
         <nav>
             <div class="flex flex-row bg-[#5abbc0] w-auto h-20 p-6" >
