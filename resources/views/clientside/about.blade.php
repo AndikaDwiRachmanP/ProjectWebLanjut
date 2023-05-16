@@ -127,7 +127,7 @@
                     sehingga saya bisa melakukan peminjaman kapanpun.
                   </p>
                   <p class="text-gray-500 text-xs md:text-sm px-6">
-                    Marcello Athapary
+                    Raffi Qomarul
                   </p>
                 </div>
               </div>
