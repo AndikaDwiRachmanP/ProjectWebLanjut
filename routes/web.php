@@ -14,9 +14,11 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', [App\Http\Controllers\ClientsideController::class, 'show']);
-
+Route::get('about', [App\Http\Controllers\ClientsideController::class, 'about']);
 Route::get('login', [App\Http\Controllers\AuthController::class, 'login'])->name('login');
+Route::get('/contact', [App\Http\Controllers\ClientsideController::class, 'contact']);
 
 Route::middleware(['auth'])->group(function () {
 
+    
 });
