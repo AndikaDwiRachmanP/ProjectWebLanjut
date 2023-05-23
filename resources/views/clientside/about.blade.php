@@ -139,7 +139,7 @@
                     tersedia juga sangat update. 
                   </p>
                   <p class="text-gray-500 text-xs md:text-sm px-6">
-                    Andika Dwi
+                    Andika Dwi Rachman
                   </p>
                 </div>
               </div>
