@@ -137,7 +137,7 @@
                   </div>
                   <div class="grow ml-6">
                     <p class="font-bold mb-1">Bug report</p>
-                    <p class="text-gray-500">Raffi@gmail.com</p>
+                    <p class="text-gray-500">Marcelooa26@gmail.com</p>
                     <p class="text-gray-500">+62 882 5555 8888</p>
                   </div>
                 </div>

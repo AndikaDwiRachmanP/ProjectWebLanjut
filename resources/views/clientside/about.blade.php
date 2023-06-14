@@ -127,7 +127,7 @@
                     sehingga saya bisa melakukan peminjaman kapanpun.
                   </p>
                   <p class="text-gray-500 text-xs md:text-sm px-6">
-                    Raffi Qomarul fattah
+                    Marcello Athapary
                   </p>
                 </div>
               </div>
@@ -139,7 +139,7 @@
                     tersedia juga sangat update. 
                   </p>
                   <p class="text-gray-500 text-xs md:text-sm px-6">
-                    Andika Dwi Rachman
+                    Andika Dwi
                   </p>
                 </div>
               </div>
